@@ -1,5 +1,5 @@
 {
-  "name": "copy-to-clipboard",
+  "name": "@nosplatform/copy-to-clipboard",
   "version": "3.0.8",
   "description": "Copy stuff into clipboard using JS with fallbacks",
   "main": "index.js",
